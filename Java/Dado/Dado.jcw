@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Dado</label>
+	</settings>
+	<users>
+		<user>
+			<path>Dado.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Dado.jcp</path>
+		</project>
+	</projects>
+</workspace>
