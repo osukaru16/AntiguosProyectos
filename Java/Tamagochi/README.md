@@ -1,0 +1,1 @@
+# Un tamagochi de texto
