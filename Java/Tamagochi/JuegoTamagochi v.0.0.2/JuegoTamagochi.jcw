@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>JuegoTamagochi</label>
+	</settings>
+	<users>
+		<user>
+			<path>JuegoTamagochi.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JuegoTamagochi.jcp</path>
+		</project>
+	</projects>
+</workspace>
